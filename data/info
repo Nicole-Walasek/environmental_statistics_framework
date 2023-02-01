@@ -1,1 +1,3 @@
 This folder contains data necessary for replicating the paper 'A framework for studying environmental statistics in developmental science'.
+
+The nyc crime data can be downloaded via the provided R script (nyc-crime-data).
